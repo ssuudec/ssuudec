@@ -27,6 +27,24 @@ I enjoy building practical software projects across web development, mobile appl
 
 ## Featured Projects
 
+### [Crazy Neighbors](https://github.com/ssuudec/crazy-neighbors)
+
+A turn-based 2D shooting game with a humorous Turkish neighborhood atmosphere.
+
+- Developed with Unity and C#.
+- Includes mechanics such as aiming, shooting, shielding, double shots and morale-based actions.
+- Published as a WebGL game on itch.io.
+- Combines game logic, UI interaction and player-centered gameplay design.
+
+### [Mağaradan Kaçış](https://github.com/ssuudec/magaradan-kacis-game)
+
+A browser-based puzzle/platform game inspired by recursive room mechanics.
+
+- Built with HTML5 Canvas, Vanilla JavaScript and CSS.
+- Features multiple levels with changing rules, movement mechanics, reset controls and hints.
+- Includes custom game flow, level logic, sound settings and visual assets.
+- Shows creativity in web-based game development without relying on external game libraries.
+
 ### [TravelBuddy Mobile App](https://github.com/ssuudec/TravelBuddy-MobileApp)
 
 A mobile travel planning and route management app built for organizing trips with real-time group communication.
@@ -54,24 +72,6 @@ Relational database design and SQL implementation for a dental implant surgery a
 - Includes ER diagrams, relational schema, SQL table definitions, sample data and queries.
 - Built with MySQL and MySQL Workbench.
 - Shows strong understanding of database modeling, requirements analysis and structured data design.
-
-### [Crazy Neighbors](https://github.com/ssuudec/crazy-neighbors)
-
-A turn-based 2D shooting game with a humorous Turkish neighborhood atmosphere.
-
-- Developed with Unity and C#.
-- Includes mechanics such as aiming, shooting, shielding, double shots and morale-based actions.
-- Published as a WebGL game on itch.io.
-- Combines game logic, UI interaction and player-centered gameplay design.
-
-### [Mağaradan Kaçış](https://github.com/ssuudec/magaradan-kacis-game)
-
-A browser-based puzzle/platform game inspired by recursive room mechanics.
-
-- Built with HTML5 Canvas, Vanilla JavaScript and CSS.
-- Features multiple levels with changing rules, movement mechanics, reset controls and hints.
-- Includes custom game flow, level logic, sound settings and visual assets.
-- Shows creativity in web-based game development without relying on external game libraries.
 
 ### [Turkish NLP Chunking Project](https://github.com/ssuudec/nlp-project)
 
