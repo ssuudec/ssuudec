@@ -8,7 +8,7 @@ I am a 3rd-year Computer Engineering student at Bursa Technical University.
 I enjoy building practical software projects across web development, mobile applications, databases, algorithms, data-driven systems and games.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ssuudec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssuudec)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ssuudec.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/ssuudec/ssuudec.github.io)
+[![Linkedin](https://www.linkedin.com/in/sude-%C3%A7akmak/)
 
 </div>
 
