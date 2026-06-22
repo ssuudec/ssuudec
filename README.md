@@ -169,4 +169,4 @@ Algorithm analysis project comparing Brute Force and Graham Scan approaches.
 ## Contact
 
 - GitHub: [github.com/ssuudec](https://github.com/ssuudec)
-- Portfolio: [ssuudec.github.io](https://github.com/ssuudec/ssuudec.github.io)
+
